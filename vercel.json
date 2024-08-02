@@ -9,11 +9,8 @@
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "server.js"
+        "dest": "/server.js"
       }
-    ],
-    "env": {
-      "API_KEY": "84fe914f1c1383dd2f64318beb0e52d5"
-    }
+    ]
   }
   
